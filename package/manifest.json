@@ -1,0 +1,22 @@
+{
+	"update_url": "http://www.samdutton.net/syncfilesystem/crx",
+	"name": "chrome.syncFileSystem demo",
+	"description": "Simplest possible SyncFileSystem example",
+	"version": "1.0",
+	"manifest_version": 2,
+	"app": {
+    "background": {
+      "scripts": ["js/background.js"]
+    }
+  },
+	"icons": {
+		"16": "images/syncFileSystem16.png",
+		"22": "images/syncFileSystem22.png",
+		"32": "images/syncFileSystem32.png",
+		"48": "images/syncFileSystem48.png",
+		"128": "images/syncFileSystem128.png"
+	},
+	"permissions": ["syncFileSystem"]
+  }
+
+
