@@ -1,7 +1,7 @@
 {
 	"update_url": "http://www.samdutton.net/syncfilesystem/crx",
-	"name": "chrome.syncFileSystem demo",
-	"description": "Simplest possible SyncFileSystem example",
+	"name": "SyncFileSystem",
+	"description": "Simplest possible Chrome SyncFileSystem example",
 	"version": "1.0",
 	"manifest_version": 2,
 	"app": {
